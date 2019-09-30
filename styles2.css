@@ -119,8 +119,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   align-content: center;
-  width: 151vmin;
-  background-color: black;
+  /* width: 70%; */
+  /* background-color: black; */
   padding: 1vmin;
 }
 
@@ -128,7 +128,8 @@ h1 {
   display: flex;
   justify-content: center;
   align-content: center;
-  padding: 1vmin;
+  padding: 2vmin;
+  background-color: black;
 }
 
 .subtitle {
